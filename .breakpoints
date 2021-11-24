@@ -1,0 +1,68 @@
+{
+  "files": {
+    "Exercise ( Spring Term )/11. Object Oriented Programming/11.1 Closest Points (with member functions)": [
+      {
+        "id": "53dce808-1457-4e33-aa20-7a40cb665bfd",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "Exercise ( Spring Term )/8. Structured data type/8.1 Vectors of points + Closests Points.hpp": [
+      {
+        "id": "9f456db3-4288-4778-b1e7-78175b79fefd",
+        "line": 86,
+        "version": 132,
+        "index": 1833
+      },
+      {
+        "id": "0d945a4b-4734-44be-978c-0ea38ea65137",
+        "line": 86,
+        "version": 132,
+        "index": 1833
+      }
+    ],
+    "Exercise ( Spring Term )/8. Structured data type/8.2 Vectors.hpp": [
+      {
+        "id": "e9bfbbe6-e182-4be4-97b4-5a8d0f26d9ee",
+        "line": 31,
+        "version": 0,
+        "index": 756
+      }
+    ],
+    "Exercises ( Autumn Term )/7. Input and Output from Text Files/7.1 Print content of text file in reverse order.hpp": [
+      {
+        "id": "469edcfa-aa52-4e6c-acd1-0b8a745c932c",
+        "line": 10,
+        "version": 11,
+        "index": 153
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "a9f14357-c339-4327-94ed-d3326615b63e",
+        "line": 1,
+        "version": 26242,
+        "index": 0
+      },
+      {
+        "id": "9c678f49-6887-4af1-99e8-9d01c614c8aa",
+        "line": 1,
+        "version": 26242,
+        "index": 0
+      },
+      {
+        "id": "be56d2ea-c451-4b07-8787-6647da48ecba",
+        "line": 1,
+        "version": 26242,
+        "index": 0
+      },
+      {
+        "id": "5026da3a-d0d2-4bde-b267-c4ea8ec615de",
+        "line": 1,
+        "version": 26242,
+        "index": 453
+      }
+    ]
+  }
+}
